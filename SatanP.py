@@ -6,25 +6,25 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re,ast,os,subprocess,requests
 
 cl = LINETCR.LINE()
-cl.login(token='EoUfvmJ8yvM2sWg5IZI1.3F5mAYbgAHDqpBJBma2x0q.tz7ULvgl0sM4Bdwp3z8uBW0jjPhuqY5nCWoBXgTe5zM=')
+cl.login(token='EogKbEyCe7yYekgBHbT8.6S7B6iV24SxpyyIZPkjUga.P2Sp7DZuGNcfESz/YOr3WOauimX07jn0tONXkIcTZ00=')
 cl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token='Eord4LrBaHsF1r6ZcQnd.f41DoffOio7QHS5kSVyVlq.62qta7Gj4Gt8fWSO8eM4EeYLWknOPJ5Vd5VKwzWNKTI=')
+ki.login(token='EotW0N3d7wwrh5YXZ9J0.wO8FExqopCH2OtQ39ZGtqa.zn33Vv29GlNwK/8fPsgbLAXk5qhaWZ+iIDZiVTGpxdI=')
 ki.loginResult()
 
 ki2 = LINETCR.LINE()
-ki2.login(token='EowX0aH8FS70HC7QMEn3.g3V1VYdjPTVRkLmEcvSbCW.7Uu+jRDyUVBxXHLhYoUOPHbL1b1jOpg6hQfXdNU96Iw=')
+ki2.login(token='Eo7uWMiKIBMErQ7satZ8.Y2rawCeX0fURueP0mx/hoa.Ql5xEva7uo1cNnSamgj6wcT1QhGqkXPexPE0BOR0qEY=')
 ki2.loginResult()
 
 ki3 = LINETCR.LINE()
-ki3.login(token='EoqJKp5YN4ni4Kp8MUZ1.OFdc2oVa5NtbpXhRKHafmq.gb5KLkaqk8/2Il0cVEjBAdnbv0rjwbCWRVSCE75li1o=')
+ki3.login(token='EoYyjBmwBaWF9pXGw0t9.VuiggVG+2eQkzNXltNSfMq.Z4l/lYE4vEXJYnog8BDoX9PoDEwc1a9XTriIHZ+NgNg=')
 ki3.loginResult()
 print "= = = = = = BOT CAT LOGIN SUCCESS = = = = = ="
 reload(sys)
 sys.setdefaultencoding('utf-8')
 helpMessage ="""╔════════════════
-║ZssiK♥ SP COMMAND ♥KissZ
+║Fuck♥ FUCK-U ♥Fuck
 ╠══════════════════
 ║❂͜͡☆➣Set:changenamelock:on/off
 ║   ☆ล็อคชื่อกลุ่ม [เปิด/ปิด]
