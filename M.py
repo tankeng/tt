@@ -8,7 +8,7 @@ import time,random,sys,json,codecs,threading,glob,requests,urllib
 
 cl = ASUL.LINE()
 cl.login(qr=True)
-#cl.login(token="Ekvgz2Nht8TZmlZCyP6.xxD+zgW3gaYtM/L6PqLWLG.66vfknBfN3kwpXVAYkzt2QRuS+qMx+vXyqJUk4rNONE=")
+cl.login(token="EpJIhuwecKFJAU2zuLv5.7xCRRg3YdpRmzn8omFJ9rq.2fgz+kijviRhCVG7xifw8rpkDBhk3YxKsZ9B8YoV6mY=")
 cl.loginResult()
 ki=ki2=ki3=ki4=cl
 
