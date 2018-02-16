@@ -1,16 +1,16 @@
 # -*- coding: utf-8 -*-
 
-import ASUL
-from ASUL.lib.curve.ttypes import *
+import LINETCR
+from LINETCR.lib.curve.ttypes import *
 from datetime import datetime
 # https://kaijento.github.io/2017/05/19/web-scraping-youtube.com/
 import time,random,sys,json,codecs,threading,glob,requests,urllib
 
-cl = ASUL.LINE()
+cl = LINETCR.LINE()
 cl.login(qr=True)
 cl.login(token="EpJIhuwecKFJAU2zuLv5.7xCRRg3YdpRmzn8omFJ9rq.2fgz+kijviRhCVG7xifw8rpkDBhk3YxKsZ9B8YoV6mY=")
 cl.loginResult()
-ki=ki2=ki3=ki4=cl
+#ki=ki2=ki3=ki4=cl
 
 #ki = ASUL.LINE()
 #ki.login(qr=True)
